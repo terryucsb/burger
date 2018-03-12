@@ -5,7 +5,7 @@ Eat-Da-Burger is a restaurant app that lets users input the names of burgers the
 
 <img src="http://clipartsign.com/upload/2016/01/27/hamburger-cartoon-burger-clipart.png" height="150x" width="200px"/>
 
-###Dependencies
+Dependencies
   * MySQL
   * Node
   * Express
@@ -13,4 +13,4 @@ Eat-Da-Burger is a restaurant app that lets users input the names of burgers the
   * ORM 
   
 
-###Week 14 Homework - Terry Kim
+Week 14 Homework - Terry Kim
